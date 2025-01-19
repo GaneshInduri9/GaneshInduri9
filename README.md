@@ -19,7 +19,7 @@
 
 ### Familiar Tech Stack:
 
-<img width="40%" align="right" alt="Coding Boy" src="./images/coding.gif" />
+<img src="./images/coding.gif" alt="Coding Boy" style="float: right; width: 40%;" />
 
 [![](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,html)]()
 [![](https://skillicons.dev/icons?i=css,c,aws,python,bootstrap,tailwind)]()
