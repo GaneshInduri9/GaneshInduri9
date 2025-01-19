@@ -19,15 +19,15 @@
 
 ### Familiar Tech Stack:
 
-<img width="30%" align="right" alt="Coding Boy" src="./images/coding.gif" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/GaneshInduri9/GaneshInduri9/blob/master/images/coding.gif?raw=true" />
 
-[![](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,html,css,c,aws,python,mangodb,bootstrap,tailwind)]()
+[![](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,html,css,c,aws,python,bootstrap,tailwind)]()
 
 <br/>
 
 ### Tools I use:
 
-[![](https://skillicons.dev/icons?i=git,macos,vscode)]()
+[![](https://skillicons.dev/icons?i=git,linux,vscode)]()
 
 ### Interests:
 
