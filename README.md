@@ -19,7 +19,7 @@
 
 ### Familiar Tech Stack:
 
-<img width="40%" align="right" alt="Coding Boy" src="./images/coding.gif" />
+<img width="30%" align="right" alt="Coding Boy" src="./images/coding.gif" />
 
 [![](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,html,css,c,aws,python,mangodb,bootstrap,tailwind)]()
 
@@ -33,6 +33,9 @@
 
 - Explore new Tech 💻
 - Running 🏃🏻
+
+## Reach out to me:
+
 
 ## 📊 My GitHub Data:
 <p>
