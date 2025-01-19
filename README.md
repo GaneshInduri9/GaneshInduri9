@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `MERN Stack`.
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Dev Projects`.
 
 - 🥅 2025 goals: Make project and contribute to Open Source
 
