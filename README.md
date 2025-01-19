@@ -19,12 +19,11 @@
 
 ### Familiar Tech Stack:
 
-<img src="./images/coding.gif" alt="Coding Boy" style="float: right; width: 40%;" />
+
 
 [![](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,html)]()
 [![](https://skillicons.dev/icons?i=css,c,aws,python,bootstrap,tailwind)]()
 
-<br/>
 
 ### Tools I use:
 
