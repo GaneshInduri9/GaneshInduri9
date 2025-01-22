@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About Me:
 <img width="40%" align="right" alt="Github" src="./images/self.svg" />
 
-- 🙋‍♂️ Something cool about me **[My Website](https://ganesh-portfolio-rho.vercel.app//)**
+- 🙋‍♂️ Learn more about me here: **[My Website](https://ganesh-portfolio-rho.vercel.app//)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
